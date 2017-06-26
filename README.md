@@ -1,24 +1,4 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Ruby on Rails API
+----
+API boilerplate ready to connect to front end, and to deploy to Heroku. 
+Will then accept HTTP requests using the Heroku URL for database persistance with PostgreSQL.
